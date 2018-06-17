@@ -71,8 +71,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
-
     private fun breakMethod() {
         for (i in 1..10) {
             Log.i("zhoujian", "i：" + i);

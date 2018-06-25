@@ -142,7 +142,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
     /**
      * if 的分支可以是代码块，最后的表达式作为该块的值
      */
